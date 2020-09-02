@@ -1,4 +1,4 @@
 # Write your code here
-while TRUE do
+while count > 0 do
   puts "this ain't stoppin bro"
 end
